@@ -1,1 +1,2 @@
 # BrownDatathon2019
+#This is my submission for Brown Datathon! I used TripAdvisor's datasets to make a hotel recommendation program, specifically for people looking for hotel recommendations from their fellow countrymen. The user inputs their country, what city they're looking for a hotel in, and what hotel type, and the program filters through the data set to find the top hotels that previous users had actually booked at before and rated most highly. 
